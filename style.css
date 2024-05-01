@@ -1,0 +1,13 @@
+#meuBotao {
+	padding: 10px;
+	background-color: lightblue;
+	border: none;
+	cursor: pointer;
+}
+#texto {
+	color: grey;
+}
+
+#corpo {
+	background-color: blue;
+}
